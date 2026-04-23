@@ -34,7 +34,7 @@ Sistem, müşteri şikayetlerini analiz ederek temsilcilere anında uygulanabili
 - **Lombok:** Boilerplate kod azaltımı
 
 ### Frontend
-- **React 18** (Functional Components & Hooks)
+- **React 19** (Functional Components & Hooks)
 - **React Router DOM:** Sayfa navigasyonu
 - **Bootstrap 5:** Modern ve responsive tasarım
 - **React Icons:** Görsel zenginlik
