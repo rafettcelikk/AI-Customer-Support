@@ -26,7 +26,7 @@ Sistem, müşteri şikayetlerini analiz ederek temsilcilere anında uygulanabili
 ## 🛠️ Teknoloji Yığını (Tech Stack)
 
 ### Backend
-- **Java 21** & **Spring Boot 3.x**
+- **Java 25** & **Spring Boot 3.x**
 - **Spring AI:** LLM Prompt Engineering & Yanıt Ayrıştırma
 - **Spring WebSockets:** Gerçek zamanlı veri akışı
 - **Spring Data JPA:** Veritabanı yönetimi (MySQL/PostgreSQL)
